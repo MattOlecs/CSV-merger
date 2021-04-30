@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F2Oyk0Lm7DYbelRkbcNGqQbq7xn0InSZg7QJYoKHPqZBCkfeQxYh64eb2HCI1tT0X2I6vuALUbZN/Bb1fsdiYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mateusz\\Desktop\\MergeCSV\\MergeCSV\\MergeCSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mateusz\\.nuget\\packages\\lumenworkscsvreader\\4.0.0\\lumenworkscsvreader.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
